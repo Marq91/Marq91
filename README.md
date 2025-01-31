@@ -62,8 +62,6 @@ Passionate Fullstack Developer with a degree in Programming Analysis from Univer
 
 ![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=marq91&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marq91&theme=radical)](https://git.io/streak-stats) 
-[![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=marq91&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
-
 
 <!--END_SECTION:waka-->
 <br>
